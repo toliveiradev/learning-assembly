@@ -1,0 +1,9 @@
+# Ignorar arquivos binários
+*.bin
+*.exe
+*.o
+hello
+
+# Ignorar arquivos de linkagem específicos para NASM
+*.lst
+*.out
